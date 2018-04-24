@@ -14,6 +14,7 @@ time = StringVar()
 s = 0
 m = 0
 
+
 def findMin(i,n):
     global ind, errorList, count
 
